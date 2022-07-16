@@ -1,4 +1,4 @@
-# PROJECT of Deep Natural language proccessint
+# PROJECT of Deep Natural language proccessing
 
 In this project we try to replicate and to expand  the paper 'Domain-Specific Sentiment Lexicons Induced from Labeled Documents' (https://aclanthology.org/2020.coling-main.578/).
 
