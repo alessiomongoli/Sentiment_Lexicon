@@ -1,4 +1,4 @@
-# PROJECT of Deep Natural language proccessin
+# PROJECT of Deep Natural language proccessint
 
 In this project we try to replicate and to expand  the paper 'Domain-Specific Sentiment Lexicons Induced from Labeled Documents' (https://aclanthology.org/2020.coling-main.578/).
 
@@ -29,7 +29,7 @@ This script run predictions on the Imdb and Twitter dataset and return the accur
 
 ## EXPERIMENT PRICE
 
-Ify ou want to run our experiment regarding the evolution of polarity with the changing of the price, you should open the Experiment Price's link colab and set the parameter of the cell 11:
+If you want to run our experiment regarding the evolution of polarity with the changing of the price, you should open the Experiment Price's link colab and set the parameter of the cell 11:
 
 -CATEGORY: specify the dataset review dataset on which you want perform the analysis. Wehave used the reviews_Musical_Instruments dataset
 
