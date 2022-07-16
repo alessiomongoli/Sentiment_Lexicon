@@ -2,7 +2,7 @@
 
 In this project we try to replicate and to expand  the paper 'Domain-Specific Sentiment Lexicons Induced from Labeled Documents' (https://aclanthology.org/2020.coling-main.578/).
 
-## File Generale
+## Principal_pipeline
 If you want to run our first experiment explained in the paper, you should open File Generale's link colab and set the parameter of the cell 8:
 - CATEGORY: specify the starter dataset_review.There are three choose: #"reviews_Apps_for_Android" #reviews_Apps_for_Android or reviews_Grocery_and_Gourmet_Food
 
